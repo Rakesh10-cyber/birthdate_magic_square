@@ -1,2 +1,2 @@
 # birthdate_magic_square
-UNLIKE RAMANUJAN'S MAGIC SQUARE WHICH ONLY CONTAINS 24 COMBINATIONS THE MAGIC SQUARE CONTAINS 26 POSSIBLE COMBINATIONS.
+Unlike Ramanujan's magic square which only contains 24 combinations the magic square contains 26 possible combinations.
