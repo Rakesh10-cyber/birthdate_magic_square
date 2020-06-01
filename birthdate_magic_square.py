@@ -45,7 +45,7 @@ while True :
     n = "|      "*4 
     if (s/2)*10-(s//2)*10==0 :
         x =[2*b+c, s//2, a-d]
-        row1 =[x[0]-a, a+d-2*b, 2*b, a-b]
+        row1 =[x[0]-a, a+d-2*b, 2*b, a+b]
         row2 =[x[1]-c, x[1]-d, x[1]-a, x[1]-b ]
         row3 =[x[1]-2*b, x[1]+(b-a), x[1]+a-(x[0]), x[1]+2*b-x[2]]
     else :
